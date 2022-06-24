@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AcademicInfo",
+    "\\AcademicInfo\\AcademicInfoClient",
+    "\\AcademicInfo\\AcademicInfoClient\\src",
+    "\\AcademicInfo\\AcademicInfoClient\\src\\app",
+    "\\AcademicInfo\\AcademicInfoClient\\src\\app\\staff-profile",
+    "\\AcademicInfo\\AcademicInfoServer",
+    "\\AcademicInfo\\AcademicInfoServer\\Controllers",
+    "\\AcademicInfo\\AcademicInfoServer\\Models"
+  ],
+  "SelectedNode": "\\AcademicInfo\\AcademicInfoServer\\Controllers\\StaffController.cs",
+  "PreviewInSolutionExplorer": false
+}

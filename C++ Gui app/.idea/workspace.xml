@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f957cfa4-c8b1-4dbf-81e7-4c4df26c0027" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/a10-tavi255-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/a10-tavi255-1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ui/Delegate.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/Delegate.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ui/Delegate.h" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/Delegate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ui/GuiAdmin.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/GuiAdmin.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ui/GuiAdmin.h" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/GuiAdmin.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ui/GuiUser.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/GuiUser.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ui/GuiUser.h" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/GuiUser.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ui/TableView.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/TableView.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ui/TableView.h" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/TableView.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ui/UI administrator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/UI administrator.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ui/UI administrator.h" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/UI administrator.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ui/Ui user.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/Ui user.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ui/Ui user.h" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/Ui user.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/PieSliceChart.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/charts/PieSliceChart.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/PieSliceChart.h" beforeDir="false" afterPath="$PROJECT_DIR$/charts/PieSliceChart.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/CMakeError.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/CMakeRuleHashes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/CMakeRuleHashes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/includes_CXX.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/includes_CXX.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/linklibs.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/linklibs.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/AutogenInfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/AutogenInfo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/a45_tavi255.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/a45_tavi255.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##Repo.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##Repo.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##Services.cpp.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##Services.cpp.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##alloc_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##alloc_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##allocator.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##basic_string.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##basic_string.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##basic_string.tcc.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##basic_string.tcc.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##char_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##char_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##move.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##move.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##new_allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##new_allocator.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##ptr_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##ptr_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##stl_iterator_base_funcs.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##stl_iterator_base_funcs.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##stl_iterator_base_types.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##stl_iterator_base_types.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##type_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##type_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##Tutorial.cpp.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##Tutorial.cpp.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##alloc_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##alloc_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##allocator.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##basic_string.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##basic_string.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##basic_string.tcc.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##basic_string.tcc.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##char_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##char_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##move.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##move.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##new_allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##new_allocator.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##ptr_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##ptr_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##stl_function.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##stl_function.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##stl_iterator_base_funcs.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##stl_iterator_base_funcs.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##stl_iterator_base_types.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##stl_iterator_base_types.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##string_conversions.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##string_conversions.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##type_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##type_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##alloc_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##alloc_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##basic_string.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##basic_string.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##basic_string.tcc.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##basic_string.tcc.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##char_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##char_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##console.cpp.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##console.cpp.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##move.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##move.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##new_allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##new_allocator.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##ptr_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##ptr_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##stl_iterator_base_funcs.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##stl_iterator_base_funcs.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##stl_iterator_base_types.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##stl_iterator_base_types.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##type_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##type_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##Repo.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##Repo.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##alloc_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##alloc_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##allocator.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##basic_string.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##basic_string.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##basic_string.tcc.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##basic_string.tcc.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##char_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##char_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##generator.cpp.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##generator.cpp.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##move.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##move.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##new_allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##new_allocator.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##ptr_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##ptr_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##stl_iterator_base_funcs.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##stl_iterator_base_funcs.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##stl_iterator_base_types.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##stl_iterator_base_types.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##type_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##type_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/main.cpp.gcda##main.cpp.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/main.cpp.gcda##main.cpp.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##Repo.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##Repo.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##alloc_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##alloc_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##allocator.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##basic_string.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##basic_string.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##basic_string.tcc.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##basic_string.tcc.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##char_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##char_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##move.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##move.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##new_allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##new_allocator.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##ptr_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##ptr_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##stl_algobase.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##stl_algobase.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##stl_function.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##stl_function.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##stl_iterator_base_funcs.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##stl_iterator_base_funcs.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##stl_iterator_base_types.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##stl_iterator_base_types.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##test.cpp.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##test.cpp.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##type_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##type_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##Repo.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##Repo.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##alloc_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##alloc_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##basic_string.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##basic_string.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##basic_string.tcc.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##basic_string.tcc.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##char_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##char_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##move.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##move.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##new_allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##new_allocator.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##ptr_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##ptr_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##stl_algobase.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##stl_algobase.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##stl_iterator_base_funcs.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##stl_iterator_base_funcs.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##stl_iterator_base_types.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##stl_iterator_base_types.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##type_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##type_traits.h.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##validator.cpp.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##validator.cpp.gcov" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeRuleHashes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/includes_CXX.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/AutogenInfo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/AutogenUsed.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/ParseCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Tutorial.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Tutorial.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255_autogen/5OUZVNNGVJ/moc_GuiAdmin.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255_autogen/5OUZVNNGVJ/moc_GuiAdmin.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255_autogen/5OUZVNNGVJ/moc_GuiUser.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255_autogen/5OUZVNNGVJ/moc_GuiUser.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255_autogen/moc_predefs.h" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255_autogen/moc_predefs.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255_autogen/mocs_compilation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255_autogen/mocs_compilation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/watchlist.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/watchlist.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/watchlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/watchlist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity/Action.h" beforeDir="false" afterPath="$PROJECT_DIR$/entity/Action.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity/ActionAdd.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/entity/ActionAdd.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity/ActionAdd.h" beforeDir="false" afterPath="$PROJECT_DIR$/entity/ActionAdd.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity/ActionRemove.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/entity/ActionRemove.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity/ActionRemove.h" beforeDir="false" afterPath="$PROJECT_DIR$/entity/ActionRemove.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity/ActionUpdate.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/entity/ActionUpdate.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity/ActionUpdate.h" beforeDir="false" afterPath="$PROJECT_DIR$/entity/ActionUpdate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity/Tutorial.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/entity/Tutorial.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entity/Tutorial.h" beforeDir="false" afterPath="$PROJECT_DIR$/entity/Tutorial.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.csv" beforeDir="false" afterPath="$PROJECT_DIR$/example.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exceptions/exceptions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/exceptions/exceptions.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exceptions/exceptions.h" beforeDir="false" afterPath="$PROJECT_DIR$/exceptions/exceptions.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator/generator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/generator/generator.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generator/generator.h" beforeDir="false" afterPath="$PROJECT_DIR$/generator/generator.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/FileRepo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/repository/FileRepo.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/FileRepo.h" beforeDir="false" afterPath="$PROJECT_DIR$/repository/FileRepo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/Repo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/repository/Repo.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/Repo.h" beforeDir="false" afterPath="$PROJECT_DIR$/repository/Repo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/SqlDatabase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/repository/SqlDatabase.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/SqlDatabase.h" beforeDir="false" afterPath="$PROJECT_DIR$/repository/SqlDatabase.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/UndoRedoRepo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/repository/UndoRedoRepo.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/UndoRedoRepo.h" beforeDir="false" afterPath="$PROJECT_DIR$/repository/UndoRedoRepo.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_gui/RunGui.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/run_gui/RunGui.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_gui/RunGui.h" beforeDir="false" afterPath="$PROJECT_DIR$/run_gui/RunGui.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/UserServices.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/services/UserServices.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/UserServices.h" beforeDir="false" afterPath="$PROJECT_DIR$/services/UserServices.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/administrator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/services/administrator.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/administrator.h" beforeDir="false" afterPath="$PROJECT_DIR$/services/administrator.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test.h" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validator/validator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/validator/validator.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validator/validator.h" beforeDir="false" afterPath="$PROJECT_DIR$/validator/validator.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tJAhLdqfikSjcIAQ81XvoM2z0e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "cmake.loaded.for.project": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github\a10-tavi255-1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f957cfa4-c8b1-4dbf-81e7-4c4df26c0027" name="Default Changelist" comment="" />
+      <created>1622476942363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622476942363</updated>
+      <workItem from="1622476949091" duration="669000" />
+      <workItem from="1622481139864" duration="5852000" />
+      <workItem from="1622536730060" duration="9698000" />
+      <workItem from="1656088623879" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

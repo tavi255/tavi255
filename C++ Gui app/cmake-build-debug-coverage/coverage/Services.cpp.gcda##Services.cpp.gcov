@@ -1,0 +1,124 @@
+        -:    0:Source:/mnt/d/github/a45-tavi255/services/Services.cpp
+        -:    0:Graph:/mnt/d/github/a45-tavi255/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/services/Services.cpp.gcno
+        -:    0:Data:/mnt/d/github/a45-tavi255/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/services/Services.cpp.gcda
+        -:    0:Runs:1
+        -:    1://
+        -:    2:// Created by Tavi on 21.03.2021.
+        -:    3://
+        -:    4:
+        -:    5:#include "Services.h"
+        -:    6:#include "../entity/Tutorial.h"
+        -:    7:#include "../validator/validator.h"
+        -:    8:
+        -:    9:
+        -:   10:
+        -:   11:
+        1:   12:Services::Services(Repo<Tutorial> *repo) {
+        -:   13:
+        1:   14:    this->repo=repo;
+        -:   15:
+        -:   16:
+        1:   17:}
+        4:   18:void Services::add_tutorial(string title,string presenter,string duration,int nr_likes,string link)
+        -:   19:{
+        8:   20:        Tutorial t(title,presenter,duration,nr_likes,link);
+        4:   20-block  0
+        2:   20-block  1
+        2:   20-block  2
+        5:   21:        validate(t);
+        4:   21-block  0
+        4:   21-block  1
+        3:   21-block  2
+        1:   21-block  3
+        1:   21-block  4
+        3:   22:        if(in_repo(t,repo)==-1)
+        3:   22-block  0
+        3:   22-block  1
+    $$$$$:   22-block  2
+    $$$$$:   22-block  3
+        2:   23:            repo->push(t);
+        2:   23-block  0
+        2:   23-block  1
+        2:   23-block  2
+    $$$$$:   23-block  3
+    $$$$$:   23-block  4
+        -:   24:        else
+        1:   25:            throw runtime_error("Element is already in repo!\n");
+        1:   25-block  0
+        1:   25-block  1
+    $$$$$:   25-block  2
+        -:   26:
+        -:   27:
+        2:   28:}
+        2:   29:void Services::update_tutorial(string title,string presenter,string duration,int nr_likes,string link)
+        -:   30:{
+        4:   31:    Tutorial t(title,presenter,duration,nr_likes,link);
+        2:   31-block  0
+        1:   31-block  1
+        1:   31-block  2
+        2:   32:    validate(t);
+        2:   32-block  0
+        2:   32-block  1
+        2:   32-block  2
+    $$$$$:   32-block  3
+    $$$$$:   32-block  4
+        -:   33:
+        2:   34:    int ind=in_repo(t,repo);
+        2:   34-block  0
+        2:   34-block  1
+    $$$$$:   34-block  2
+    $$$$$:   34-block  3
+        -:   35:
+        2:   36:    if(ind!=-1)
+        1:   37:        repo->update(ind,t);
+        1:   37-block  0
+        1:   37-block  1
+        1:   37-block  2
+    $$$$$:   37-block  3
+    $$$$$:   37-block  4
+        -:   38:
+        -:   39:    else
+        -:   40:    {
+        1:   41:        throw runtime_error("The element is not in repo!\n");
+        1:   41-block  0
+        1:   41-block  1
+    $$$$$:   41-block  2
+        -:   42:    }
+        -:   43:
+        -:   44:
+        1:   45:}
+        -:   46:
+        -:   47:
+        -:   48:
+        2:   49:void Services::delete_tutorial(string link)
+        -:   50:{
+        2:   51:    int poz=in_repo_l(link,repo);
+        2:   51-block  0
+        2:   51-block  1
+    $$$$$:   51-block  2
+    $$$$$:   51-block  3
+        -:   52:
+        2:   53:    if(poz!=-1)
+        1:   54:        repo->remove(poz);
+        1:   54-block  0
+        -:   55:
+        -:   56:    else
+        1:   57:        throw runtime_error("Invalid tutorial!\n");
+        1:   57-block  0
+        1:   57-block  1
+    $$$$$:   57-block  2
+        1:   58:}
+        -:   59:
+        2:   60:int Services::size()
+        -:   61:{
+        2:   62:    return repo->size();
+        2:   62-block  0
+        -:   63:}
+        -:   64:
+        -:   65:
+        1:   66:Tutorial* Services::get_all()
+        -:   67:{
+        1:   68:    return repo->get_all();
+        1:   68-block  0
+        -:   69:}
+        -:   70:

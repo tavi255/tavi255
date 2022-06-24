@@ -1,0 +1,3 @@
+"D:\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\a45_tavi255.dir/objects.a
+D:\qt\Tools\mingw810_64\bin\ar.exe cr CMakeFiles\a45_tavi255.dir/objects.a @CMakeFiles\a45_tavi255.dir\objects1.rsp
+D:\qt\Tools\mingw810_64\bin\g++.exe --coverage -g -Wl,--whole-archive CMakeFiles\a45_tavi255.dir/objects.a -Wl,--no-whole-archive -o a45_tavi255.exe -Wl,--out-implib,liba45_tavi255.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\a45_tavi255.dir\linklibs.rsp

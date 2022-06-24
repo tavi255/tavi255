@@ -1,0 +1,118 @@
+        -:    0:Source:/mnt/d/github/a45-tavi255/generator/generator.cpp
+        -:    0:Graph:/mnt/d/github/a45-tavi255/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/generator/generator.cpp.gcno
+        -:    0:Data:/mnt/d/github/a45-tavi255/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/generator/generator.cpp.gcda
+        -:    0:Runs:1
+        -:    1://
+        -:    2:// Created by Tavi on 21.03.2021.
+        -:    3://
+        -:    4:
+        -:    5:#include "generator.h"
+        -:    6:#include <string>
+        -:    7:
+        -:    8:using namespace std;
+        -:    9:
+    #####:   10:void generate(Repo <Tutorial> *r)
+        -:   11:{
+        -:   12:    string title[]={"C++ Tutorial for Beginners - Full Course",
+        -:   13:                    "C++ Programming Language Tutorial "
+        -:   14:                    "C++ Tutorial 2020"
+        -:   15:                    "Introducere în programare - tutorial C++ - cursul 1"
+    #####:   16:                    "How to REALLY learn C++"};
+    %%%%%:   16-block  0
+    %%%%%:   16-block  1
+    %%%%%:   16-block  2
+    %%%%%:   16-block  3
+    %%%%%:   16-block  4
+    %%%%%:   16-block  5
+    $$$$$:   16-block  6
+    $$$$$:   16-block  7
+    $$$$$:   16-block  8
+    $$$$$:   16-block  9
+    $$$$$:   16-block 10
+    $$$$$:   16-block 11
+    $$$$$:   16-block 12
+    $$$$$:   16-block 13
+    $$$$$:   16-block 14
+        -:   17:
+        -:   18:    string presenter[]={"freeCodeCamp.org",
+        -:   19:                                           "GeeksforGeeks","Derek Banas"
+        -:   20:                                                           "Introducere în programare - tutorial C++ - cursul 1"
+    #####:   21:                                                           "The Cherno"};
+    %%%%%:   21-block  0
+    %%%%%:   21-block  1
+    %%%%%:   21-block  2
+    %%%%%:   21-block  3
+    %%%%%:   21-block  4
+    %%%%%:   21-block  5
+    $$$$$:   21-block  6
+    $$$$$:   21-block  7
+    $$$$$:   21-block  8
+    $$$$$:   21-block  9
+    $$$$$:   21-block 10
+    $$$$$:   21-block 11
+    $$$$$:   21-block 12
+    $$$$$:   21-block 13
+    $$$$$:   21-block 14
+    $$$$$:   21-block 15
+    $$$$$:   21-block 16
+    #####:   22:    string duration[]={"12:45","2:28","2:21","15:52","8:12"};
+    %%%%%:   22-block  0
+    %%%%%:   22-block  1
+    %%%%%:   22-block  2
+    %%%%%:   22-block  3
+    %%%%%:   22-block  4
+    %%%%%:   22-block  5
+    %%%%%:   22-block  6
+    %%%%%:   22-block  7
+    $$$$$:   22-block  8
+    $$$$$:   22-block  9
+    $$$$$:   22-block 10
+    $$$$$:   22-block 11
+    $$$$$:   22-block 12
+    $$$$$:   22-block 13
+    $$$$$:   22-block 14
+    $$$$$:   22-block 15
+    $$$$$:   22-block 16
+    $$$$$:   22-block 17
+    $$$$$:   22-block 18
+    $$$$$:   22-block 19
+    $$$$$:   22-block 20
+    $$$$$:   22-block 21
+    $$$$$:   22-block 22
+    #####:   23:    int nr_likes[]={132000,123,4900,2131,10000};
+        -:   24:    string link[]={"www.youtube.com/watch?v=vLnPwxZdW4Y",
+        -:   25:                   "www.youtube.com/watch?v=VcCRXrLFxyc"
+        -:   26:                   "www.youtube.com/watch?v=6y0bp-mnYU0"
+        -:   27:                   "www.youtube.com/watch?v=JjY9U9lu37I"
+    #####:   28:                   "www.youtube.com/watch?v=_zQqN5OYCCM"};
+    %%%%%:   28-block  0
+    %%%%%:   28-block  1
+    %%%%%:   28-block  2
+    %%%%%:   28-block  3
+    %%%%%:   28-block  4
+    $$$$$:   28-block  5
+    $$$$$:   28-block  6
+    $$$$$:   28-block  7
+    $$$$$:   28-block  8
+    $$$$$:   28-block  9
+    $$$$$:   28-block 10
+    $$$$$:   28-block 11
+    $$$$$:   28-block 12
+    $$$$$:   28-block 13
+        -:   29:
+    #####:   30:    for(int i=0;i<5;i++)
+    %%%%%:   30-block  0
+        -:   31:    {
+    #####:   32:        Tutorial t(title[i],presenter[i],duration[i],nr_likes[i],link[i]);
+    %%%%%:   32-block  0
+    $$$$$:   32-block  1
+    #####:   33:        r->push(t);
+    %%%%%:   33-block  0
+    %%%%%:   33-block  1
+    %%%%%:   33-block  2
+    $$$$$:   33-block  3
+    $$$$$:   33-block  4
+        -:   34:
+        -:   35:    }
+    #####:   36:}
+    %%%%%:   36-block  0

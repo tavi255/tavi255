@@ -1,0 +1,131 @@
+        -:    0:Source:/mnt/d/github/a45-tavi255/entity/Tutorial.cpp
+        -:    0:Graph:/mnt/d/github/a45-tavi255/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/entity/Tutorial.cpp.gcno
+        -:    0:Data:/mnt/d/github/a45-tavi255/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/entity/Tutorial.cpp.gcda
+        -:    0:Runs:1
+        -:    1://
+        -:    2:// Created by Tavi on 20.03.2021.
+        -:    3://
+        -:    4:
+        -:    5:#include "Tutorial.h"
+        -:    6:#include <iostream>
+        -:    7:#include <cstring>
+        -:    8:
+        -:    9:
+      420:   10:Tutorial::Tutorial() {
+      420:   10-block  0
+        -:   11:
+      420:   12:    title.clear();
+      420:   13:    presenter.clear();
+      420:   14:    duration.clear();
+      420:   15:    nrlikes=0;
+      420:   16:    link.clear();
+        -:   17:
+      420:   18:}
+       13:   19:Tutorial::Tutorial(string &title,string &presenter,string &duration,int &nr_likes,string &link)
+       13:   19-block  0
+    $$$$$:   19-block  1
+    $$$$$:   19-block  2
+    $$$$$:   19-block  3
+    $$$$$:   19-block  4
+        -:   20:{
+       13:   21:    this->title=title;
+       13:   22:    this->presenter=presenter;
+       13:   22-block  0
+       13:   23:    this->duration=duration;
+       13:   23-block  0
+       13:   24:    this->nrlikes=nr_likes;
+       13:   25:    this->link=link;
+       13:   25-block  0
+       13:   26:}
+       13:   26-block  0
+       13:   27:string Tutorial::get_title()
+        -:   28:{
+       13:   29:    return title;
+       13:   29-block  0
+        -:   30:}
+       20:   31:string Tutorial::get_presenter()
+        -:   32:{
+       20:   33:    return presenter;
+       20:   33-block  0
+        -:   34:}
+       19:   35:string Tutorial::get_link()
+        -:   36:{
+       19:   37:    return link;
+       19:   37-block  0
+        -:   38:}
+       12:   39:string Tutorial::get_duration()
+        -:   40:{
+       12:   41:    return duration;
+       12:   41-block  0
+        -:   42:}
+       15:   43:int Tutorial::get_likes()
+        -:   44:{
+       15:   45:    return nrlikes;
+       15:   45-block  0
+        -:   46:}
+        -:   47:
+        1:   48:int Tutorial::set_likes(int nr)
+        -:   49:{
+        1:   50:    nrlikes=nr;
+        1:   51:}
+        -:   52:
+        1:   53:string Tutorial::print()
+        -:   54:{
+        2:   55:    return string("Tutorial: ")+title+string (" presenter: ")+presenter+string(" duration: ")+duration+" nr likes: "+to_string(nrlikes)+" link: "+link+string("\n");
+        1:   55-block  0
+        1:   55-block  1
+        1:   55-block  2
+        1:   55-block  3
+        1:   55-block  4
+        1:   55-block  5
+        1:   55-block  6
+        1:   55-block  7
+        1:   55-block  8
+        1:   55-block  9
+        1:   55-block 10
+        1:   55-block 11
+        1:   55-block 12
+        1:   55-block 13
+        1:   55-block 14
+        1:   55-block 15
+        1:   55-block 16
+    $$$$$:   55-block 17
+    $$$$$:   55-block 18
+    $$$$$:   55-block 19
+    $$$$$:   55-block 20
+    $$$$$:   55-block 21
+    $$$$$:   55-block 22
+    $$$$$:   55-block 23
+    $$$$$:   55-block 24
+    $$$$$:   55-block 25
+    $$$$$:   55-block 26
+    $$$$$:   55-block 27
+    $$$$$:   55-block 28
+    $$$$$:   55-block 29
+    $$$$$:   55-block 30
+    $$$$$:   55-block 31
+    $$$$$:   55-block 32
+    $$$$$:   55-block 33
+    $$$$$:   55-block 34
+    $$$$$:   55-block 35
+    $$$$$:   55-block 36
+    $$$$$:   55-block 37
+    $$$$$:   55-block 38
+    $$$$$:   55-block 39
+    $$$$$:   55-block 40
+    $$$$$:   55-block 41
+    $$$$$:   55-block 42
+    $$$$$:   55-block 43
+    $$$$$:   55-block 44
+    $$$$$:   55-block 45
+    $$$$$:   55-block 46
+    $$$$$:   55-block 47
+    $$$$$:   55-block 48
+    $$$$$:   55-block 49
+    $$$$$:   55-block 50
+    $$$$$:   55-block 51
+        -:   56:}
+        -:   57:
+        -:   58:
+        -:   59:
+        -:   60:

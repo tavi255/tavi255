@@ -1,0 +1,25 @@
+<mat-card fxLayout="row" >
+        <form style="margin-left: 5%;" class="example-form" fxLayoutAlign="stretch" fxLayout="column" fxFlexFill
+        [formGroup]="studentForm" (ngSubmit)="addStudent()">
+
+            <mat-form-field>
+              <input matInput placeholder="Name" [formControl]="$any(studentForm).controls['Name']">
+            </mat-form-field>
+            <mat-form-field>
+                <input matInput placeholder="Department" [formControl]="$any(studentForm).controls['Department']">
+              </mat-form-field>
+              <mat-form-field appearance="fill">
+               <mat-label>Year</mat-label>
+                <mat-select matInput required [formControl]="$any(studentForm).controls['Year']">
+                   <mat-option value=1>1</mat-option>
+                  <mat-option value=2>2</mat-option>
+                  <mat-option value=3>3</mat-option>
+                </mat-select>
+          </mat-form-field>
+              <mat-form-field>
+                <input matInput placeholder="Group" [formControl]="$any(studentForm).controls['Group']">
+              </mat-form-field>
+            <button mat-raised-button type="submit">Add student</button>
+          </form>
+</mat-card>
+

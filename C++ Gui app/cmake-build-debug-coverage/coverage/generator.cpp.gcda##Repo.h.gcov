@@ -1,0 +1,212 @@
+        -:    0:Source:/mnt/d/github/a45-tavi255/repository/Repo.h
+        -:    0:Graph:/mnt/d/github/a45-tavi255/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/generator/generator.cpp.gcno
+        -:    0:Data:/mnt/d/github/a45-tavi255/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/generator/generator.cpp.gcda
+        -:    0:Runs:1
+        -:    1://
+        -:    2:// Created by Tavi on 20.03.2021.
+        -:    3://
+        -:    4:
+        -:    5:#ifndef A45_TAVI255_REPO_H
+        -:    6:#define A45_TAVI255_REPO_H
+        -:    7:
+        -:    8:#include <algorithm>
+        -:    9:
+        -:   10:
+        -:   11:using namespace std;
+        -:   12:
+        -:   13:template <typename T>
+        -:   14:class Repo {
+        -:   15:
+        -:   16:private:
+        -:   17:    T * DynamicArray;
+        -:   18:    int *s,*capacity;
+        -:   19:
+        -:   20:    void resize();
+        -:   21:    /*
+        -:   22:     * Resizes the dynamic array
+        -:   23:     */
+        -:   24:
+        -:   25:public:
+        -:   26:
+        -:   27:    Repo();
+        -:   28:    /*
+        -:   29:     * Createa a dynamic array with a default capacity of 10
+        -:   30:     */
+        -:   31:
+        -:   32:    Repo(int capacity);
+        -:   33:    /*
+        -:   34:     * Creates a dynamic array with a given capacity
+        -:   35:     * param capacity:(natural num)
+        -:   36:     */
+        -:   37:    ~Repo();
+        -:   38:    /*
+        -:   39:     * Destroys the class
+        -:   40:     */
+        -:   41:
+        -:   42:    int size();
+        -:   43:    //returns the size of the dynamic array
+        -:   44:
+        -:   45:
+        -:   46:    void push(T elem);
+        -:   47:    //adds an element in the array
+        -:   48:    //param elem:an element of type T
+        -:   49:
+        -:   50:    void update(int ind,T elem);
+        -:   51:    //updates the number of likes of a Tutorial
+        -:   52:    //param elem (current element)
+        -:   53:    //param ind the index where the element will be inserted
+        -:   54:
+        -:   55:
+        -:   56:    void remove(int ind);
+        -:   57:    //removes an element from the array
+        -:   58:    //param ind(the index if the elem)
+        -:   59:
+        -:   60:
+        -:   61:    T *get_all();
+        -:   62:    //returns all the elements in the repo
+        -:   63:
+        -:   64:    T operator [](int ind);
+        -:   65:
+        -:   66:
+        -:   67:};
+        -:   68:
+        -:   69:template <typename T>
+        -:   70:
+        -:   71:Repo<T>::Repo()
+        -:   72:{
+        -:   73:
+        -:   74:    s=new int;
+        -:   75:    capacity=new int;
+        -:   76:
+        -:   77:    *s=0;
+        -:   78:    *capacity=10;
+        -:   79:
+        -:   80:
+        -:   81:    DynamicArray=new T[*capacity];
+        -:   82:
+        -:   83:}
+        -:   84:
+        -:   85:
+        -:   86:
+        -:   87:template <typename T>
+        -:   88:
+        -:   89:Repo<T>::Repo(int capacity)
+        -:   90:{
+        -:   91:    if(capacity<=0)
+        -:   92:        throw runtime_error("Invalid capacity!\n");
+        -:   93:
+        -:   94:    this->s=new int;
+        -:   95:    this->capacity=new int;
+        -:   96:
+        -:   97:    this->*capacity=capacity;
+        -:   98:    *s=0;
+        -:   99:    DynamicArray=new T[capacity];
+        -:  100:}
+        -:  101:
+        -:  102:template<typename T>
+        -:  103:Repo<T>::~Repo()
+        -:  104:{
+        -:  105:
+        -:  106:    delete [] DynamicArray;
+        -:  107:    delete capacity;
+        -:  108:    delete s;
+        -:  109:}
+        -:  110:
+        -:  111:
+        -:  112:template <typename T>
+    #####:  113:void Repo<T>::resize()
+        -:  114:{
+    #####:  115:    *capacity=(*capacity)*2;
+    #####:  116:    T *arr2=new T[*capacity];
+    %%%%%:  116-block  0
+    %%%%%:  116-block  1
+    %%%%%:  116-block  2
+    %%%%%:  116-block  3
+    %%%%%:  116-block  4
+    %%%%%:  116-block  5
+    %%%%%:  116-block  6
+    $$$$$:  116-block  7
+    $$$$$:  116-block  8
+    $$$$$:  116-block  9
+    $$$$$:  116-block 10
+    $$$$$:  116-block 11
+    $$$$$:  116-block 12
+        -:  117:
+    #####:  118:    for(int i=0;i<*s;i++)
+    %%%%%:  118-block  0
+    %%%%%:  118-block  1
+    #####:  119:        arr2[i]=DynamicArray[i];
+    %%%%%:  119-block  0
+        -:  120:
+    #####:  121:    delete [] DynamicArray;
+    %%%%%:  121-block  0
+    %%%%%:  121-block  1
+    %%%%%:  121-block  2
+    %%%%%:  121-block  3
+    %%%%%:  121-block  4
+    #####:  122:    DynamicArray=arr2;
+    #####:  123:}
+    %%%%%:  123-block  0
+        -:  124:
+        -:  125:
+        -:  126:template <typename T>
+        -:  127:int Repo<T>::size()
+        -:  128:{
+        -:  129:    return *s;
+        -:  130:}
+        -:  131:
+        -:  132:template <typename T>
+    #####:  133:void Repo<T>::push(T elem)
+        -:  134:{
+    #####:  135:    if((*s)==(*capacity))
+    %%%%%:  135-block  0
+    #####:  136:        resize();
+    %%%%%:  136-block  0
+        -:  137:
+    #####:  138:    DynamicArray[*s]=elem;
+    %%%%%:  138-block  0
+    #####:  139:    (*s)++;
+    #####:  140:}
+        -:  141:
+        -:  142:
+        -:  143:template <typename T>
+        -:  144:void Repo<T>::remove(int ind)
+        -:  145:{
+        -:  146:    if (ind>=(*s))
+        -:  147:        throw runtime_error("Invalid index");
+        -:  148:
+        -:  149:    for(int i=ind;i<*s-1;i++)
+        -:  150:        DynamicArray[i]=DynamicArray[i+1];
+        -:  151:    (*s)--;
+        -:  152:}
+        -:  153:
+        -:  154:template <typename T>
+        -:  155:T Repo<T>::operator [](int ind)
+        -:  156:{
+        -:  157:    return DynamicArray[ind];
+        -:  158:}
+        -:  159:
+        -:  160:template <typename T>
+        -:  161:void Repo<T>::update(int ind,T elem)
+        -:  162:{
+        -:  163:       DynamicArray[ind]=elem;
+        -:  164:}
+        -:  165:
+        -:  166:template <typename T>
+        -:  167:T *Repo<T>::get_all() {
+        -:  168:
+        -:  169:    T *arr2=new T[*s];
+        -:  170:
+        -:  171:    for(int i=0;i<*s;i++)
+        -:  172:        arr2[i]=DynamicArray[i];
+        -:  173:
+        -:  174:    return arr2;
+        -:  175:
+        -:  176:}
+        -:  177:
+        -:  178:
+        -:  179:
+        -:  180:
+        -:  181:
+        -:  182:
+        -:  183:#endif //A45_TAVI255_REPO_H

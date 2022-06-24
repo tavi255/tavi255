@@ -1,0 +1,299 @@
+        -:    0:Source:/mnt/d/github/a45-tavi255/Ui/console.cpp
+        -:    0:Graph:/mnt/d/github/a45-tavi255/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/Ui/console.cpp.gcno
+        -:    0:Data:/mnt/d/github/a45-tavi255/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/Ui/console.cpp.gcda
+        -:    0:Runs:1
+        -:    1://
+        -:    2:// Created by Tavi on 21.03.2021.
+        -:    3://
+        -:    4:
+        -:    5:#include "console.h"
+        -:    6:#include <iostream>
+        -:    7:
+        -:    8:using namespace std;
+        -:    9:
+    #####:   10:Console::Console(Services *services)
+        -:   11:{
+    #####:   12:    this->services=services;
+    #####:   13:}
+        -:   14:
+    #####:   15:void Console::print_menu()
+        -:   16:{
+    #####:   17:    cout<<"1.Add a new tutorial\n";
+    %%%%%:   17-block  0
+    #####:   18:    cout<<"2.Update a tutorial\n";
+    #####:   19:    cout<<"3.Delete a tutorial\n";
+    #####:   20:    cout<<"4.Print all\n";
+    #####:   21:    cout<<"5.Exit\n";
+        -:   22:
+    #####:   23:}
+        -:   24:
+    #####:   25:void Console::add()
+        -:   26:{
+        -:   27:
+    #####:   28:    string title,presenter,duration,link;
+    %%%%%:   28-block  0
+    $$$$$:   28-block  1
+    $$$$$:   28-block  2
+    $$$$$:   28-block  3
+    $$$$$:   28-block  4
+        -:   29:    int nr_likes;
+        -:   30:
+        -:   31:
+        -:   32:
+    #####:   33:    cout<<"Enter the title!\n";
+        -:   34:
+    #####:   35:    cin>>title;
+    %%%%%:   35-block  0
+        -:   36:
+    #####:   37:    cout<<"Enter the presenter!\n";
+    %%%%%:   37-block  0
+    #####:   38:    cin>>presenter;
+    %%%%%:   38-block  0
+        -:   39:
+    #####:   40:    cout<<"Enter the duration!\n";
+    %%%%%:   40-block  0
+    #####:   41:    cin>>duration;
+    %%%%%:   41-block  0
+        -:   42:
+    #####:   43:    cout<<"Enter the number of likes!\n";
+    %%%%%:   43-block  0
+        -:   44:
+        -:   45:
+    #####:   46:    cin>>nr_likes;
+    %%%%%:   46-block  0
+        -:   47:
+    #####:   48:    if(!cin)
+    %%%%%:   48-block  0
+    %%%%%:   48-block  1
+        -:   49:    {
+    #####:   50:        cout<<"Invalid data!\n";
+    %%%%%:   50-block  0
+    #####:   51:        return;
+    %%%%%:   51-block  0
+        -:   52:    }
+        -:   53:
+        -:   54:
+        -:   55:
+    #####:   56:    cout<<"Enter the link!\n";
+    %%%%%:   56-block  0
+        -:   57:
+        -:   58:
+    #####:   59:    cin>>link;
+    %%%%%:   59-block  0
+        -:   60:
+        -:   61:
+    #####:   62:    services->add_tutorial(title,presenter,duration,nr_likes,link);
+    %%%%%:   62-block  0
+    %%%%%:   62-block  1
+    %%%%%:   62-block  2
+    %%%%%:   62-block  3
+    %%%%%:   62-block  4
+    %%%%%:   62-block  5
+    $$$$$:   62-block  6
+    $$$$$:   62-block  7
+    $$$$$:   62-block  8
+    $$$$$:   62-block  9
+    $$$$$:   62-block 10
+    $$$$$:   62-block 11
+    $$$$$:   62-block 12
+    $$$$$:   62-block 13
+        -:   63:
+        -:   64:}
+    #####:   65:void Console::update()
+        -:   66:{
+    #####:   67:    string title,presenter,duration,link;
+    %%%%%:   67-block  0
+    $$$$$:   67-block  1
+    $$$$$:   67-block  2
+    $$$$$:   67-block  3
+    $$$$$:   67-block  4
+        -:   68:    int nr_likes;
+        -:   69:
+        -:   70:
+    #####:   71:    cout<<"Enter the title!\n";
+        -:   72:
+    #####:   73:    cin>>title;
+    %%%%%:   73-block  0
+        -:   74:
+    #####:   75:    cout<<"Enter the presenter!\n";
+    %%%%%:   75-block  0
+    #####:   76:    cin>>presenter;
+    %%%%%:   76-block  0
+        -:   77:
+    #####:   78:    cout<<"Enter the duration!\n";
+    %%%%%:   78-block  0
+    #####:   79:    cin>>duration;
+    %%%%%:   79-block  0
+        -:   80:
+    #####:   81:    cout<<"Enter the number of likes!\n";
+    %%%%%:   81-block  0
+        -:   82:
+        -:   83:
+    #####:   84:    cin>>nr_likes;
+    %%%%%:   84-block  0
+        -:   85:
+    #####:   86:    if(!cin)
+    %%%%%:   86-block  0
+    %%%%%:   86-block  1
+        -:   87:    {
+    #####:   88:        cout<<"Invalid data!\n";
+    %%%%%:   88-block  0
+    #####:   89:        return;
+    %%%%%:   89-block  0
+        -:   90:    }
+        -:   91:
+        -:   92:
+        -:   93:
+    #####:   94:    cout<<"Enter the link!\n";
+    %%%%%:   94-block  0
+        -:   95:
+        -:   96:
+    #####:   97:    cin>>link;
+    %%%%%:   97-block  0
+        -:   98:
+        -:   99:
+    #####:  100:    services->update_tutorial(title,presenter,duration,nr_likes,link);
+    %%%%%:  100-block  0
+    %%%%%:  100-block  1
+    %%%%%:  100-block  2
+    %%%%%:  100-block  3
+    %%%%%:  100-block  4
+    %%%%%:  100-block  5
+    $$$$$:  100-block  6
+    $$$$$:  100-block  7
+    $$$$$:  100-block  8
+    $$$$$:  100-block  9
+    $$$$$:  100-block 10
+    $$$$$:  100-block 11
+    $$$$$:  100-block 12
+    $$$$$:  100-block 13
+        -:  101:
+        -:  102:
+        -:  103:}
+    #####:  104:void Console::remove()
+        -:  105:{
+        -:  106:
+    #####:  107:    string l;
+    %%%%%:  107-block  0
+    $$$$$:  107-block  1
+    #####:  108:    cout<<"Enter the link!\n";
+    #####:  109:    cin>>l;
+    %%%%%:  109-block  0
+    #####:  110:    services->delete_tutorial(l);
+    %%%%%:  110-block  0
+    %%%%%:  110-block  1
+    %%%%%:  110-block  2
+    $$$$$:  110-block  3
+    $$$$$:  110-block  4
+        -:  111:
+    #####:  112:}
+    #####:  113:void Console::print_all()
+        -:  114:{
+        -:  115:
+        -:  116:
+    #####:  117:    if(services->size()==0)
+    %%%%%:  117-block  0
+    #####:  118:        cout<<"No elements in the array!\n";
+    %%%%%:  118-block  0
+        -:  119:
+    #####:  120:    Tutorial *p=services->get_all();
+    %%%%%:  120-block  0
+        -:  121:
+    #####:  122:    for(int i=0;i<services->size();i++)
+    %%%%%:  122-block  0
+    #####:  123:        cout<<p[i].print();
+    %%%%%:  123-block  0
+    %%%%%:  123-block  1
+    $$$$$:  123-block  2
+        -:  124:
+    #####:  125:    delete []p;
+    %%%%%:  125-block  0
+    %%%%%:  125-block  1
+    %%%%%:  125-block  2
+    %%%%%:  125-block  3
+        -:  126:
+        -:  127:
+        -:  128:
+    #####:  129:}
+    %%%%%:  129-block  0
+        -:  130:
+        -:  131:
+    #####:  132:void Console::run_console()
+        -:  133:{
+    #####:  134:    bool ok=1;
+    %%%%%:  134-block  0
+        -:  135:
+    #####:  136:    while(ok)
+    %%%%%:  136-block  0
+        -:  137:    {
+        -:  138:        try
+        -:  139:        {
+        -:  140:            int opt;
+    #####:  141:            print_menu();
+    %%%%%:  141-block  0
+    #####:  142:            cin>>opt;
+    %%%%%:  142-block  0
+        -:  143:
+    #####:  144:            switch (opt) {
+    %%%%%:  144-block  0
+        -:  145:
+    #####:  146:                case 1:
+        -:  147:                {
+    #####:  148:                    add();
+    %%%%%:  148-block  0
+    #####:  149:                    break;
+    %%%%%:  149-block  0
+        -:  150:                }
+    #####:  151:                case 2:
+        -:  152:                {
+    #####:  153:                    update();
+    %%%%%:  153-block  0
+    #####:  154:                    break;
+    %%%%%:  154-block  0
+        -:  155:                }
+    #####:  156:                case 3:
+        -:  157:                {
+    #####:  158:                    remove();
+    %%%%%:  158-block  0
+    #####:  159:                    break;
+    %%%%%:  159-block  0
+        -:  160:                }
+    #####:  161:                case 4:
+        -:  162:                {
+    #####:  163:                    print_all();
+    %%%%%:  163-block  0
+    #####:  164:                    break;
+    %%%%%:  164-block  0
+        -:  165:                }
+    #####:  166:                case 5:
+        -:  167:                {
+    #####:  168:                    cout<<"Bye\n";
+    %%%%%:  168-block  0
+    #####:  169:                    ok=0;
+    #####:  170:                    break;
+    %%%%%:  170-block  0
+        -:  171:                }
+    #####:  172:                default:
+        -:  173:                {
+    #####:  174:                    cout<<"Invalid command!\n";
+    %%%%%:  174-block  0
+    #####:  175:                    break;
+    %%%%%:  175-block  0
+        -:  176:                }
+        -:  177:
+        -:  178:            }
+        -:  179:
+        -:  180:        }
+        -:  181:
+    =====:  182:        catch (exception &ex)
+    $$$$$:  182-block  0
+    $$$$$:  182-block  1
+    $$$$$:  182-block  2
+        -:  183:        {
+    =====:  184:            cout<<ex.what()<<"\n";
+    $$$$$:  184-block  0
+        -:  185:        }
+        -:  186:
+        -:  187:    }
+    #####:  188:}
+    %%%%%:  188-block  0

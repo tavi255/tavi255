@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="a45_tavi255"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\qt\;CMake Files\..\..\qt\5.15.2\;CMake Files\..\..\qt\5.15.2\mingw81_64\;CMake Files\..\..\qt\5.15.2\mingw81_64\lib\;CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\;CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5\;CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Core\;CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\;CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Widgets\;CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Charts\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/github/a89-tavi255/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a45_tavi255">
+				<Option output="D:/github/a89-tavi255/cmake-build-debug-coverage/a45_tavi255.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github/a89-tavi255/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_CHARTS_LIB"/>
+					<Add directory="D:/github/a89-tavi255/cmake-build-debug-coverage/a45_tavi255_autogen/include"/>
+					<Add directory="D:/qt/5.15.2/mingw81_64/include"/>
+					<Add directory="D:/qt/5.15.2/mingw81_64/include/QtCore"/>
+					<Add directory="D:/qt/5.15.2/mingw81_64/./mkspecs/win32-g++"/>
+					<Add directory="D:/qt/5.15.2/mingw81_64/include/QtGui"/>
+					<Add directory="D:/qt/5.15.2/mingw81_64/include/QtANGLE"/>
+					<Add directory="D:/qt/5.15.2/mingw81_64/include/QtWidgets"/>
+					<Add directory="D:/qt/5.15.2/mingw81_64/include/QtCharts"/>
+					<Add directory="D:/qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 a45_tavi255"/>
+					<CompileFile command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a45_tavi255/fast">
+				<Option output="D:/github/a89-tavi255/cmake-build-debug-coverage/a45_tavi255.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/github/a89-tavi255/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_CHARTS_LIB"/>
+					<Add directory="D:/github/a89-tavi255/cmake-build-debug-coverage/a45_tavi255_autogen/include"/>
+					<Add directory="D:/qt/5.15.2/mingw81_64/include"/>
+					<Add directory="D:/qt/5.15.2/mingw81_64/include/QtCore"/>
+					<Add directory="D:/qt/5.15.2/mingw81_64/./mkspecs/win32-g++"/>
+					<Add directory="D:/qt/5.15.2/mingw81_64/include/QtGui"/>
+					<Add directory="D:/qt/5.15.2/mingw81_64/include/QtANGLE"/>
+					<Add directory="D:/qt/5.15.2/mingw81_64/include/QtWidgets"/>
+					<Add directory="D:/qt/5.15.2/mingw81_64/include/QtCharts"/>
+					<Add directory="D:/qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/qt/Tools/mingw810_64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 a45_tavi255/fast"/>
+					<CompileFile command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/github/a89-tavi255/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/github/a89-tavi255/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a45_tavi255_autogen">
+				<Option working_dir="D:/github/a89-tavi255/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 a45_tavi255_autogen"/>
+					<CompileFile command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/qt/Tools/mingw810_64/bin/mingw32-make.exe -f &quot;D:/github/a89-tavi255/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/github/a89-tavi255/Ui/GuiAdmin.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/Ui/GuiAdmin.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/Ui/GuiUser.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/Ui/GuiUser.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/Ui/TableView.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/Ui/TableView.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/Ui/UI administrator.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/Ui/UI administrator.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/Ui/Ui user.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/Ui/Ui user.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/charts/PieSliceChart.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/charts/PieSliceChart.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/cmake-build-debug-coverage/a45_tavi255_autogen/mocs_compilation.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/entity/Action.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/entity/ActionAdd.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/entity/ActionAdd.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/entity/ActionRemove.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/entity/ActionRemove.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/entity/ActionUpdate.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/entity/ActionUpdate.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/entity/Tutorial.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/entity/Tutorial.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/exceptions/exceptions.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/exceptions/exceptions.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/generator/generator.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/generator/generator.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/main.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/repository/FileRepo.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/repository/FileRepo.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/repository/Repo.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/repository/Repo.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/repository/SqlDatabase.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/repository/SqlDatabase.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/repository/UndoRedoRepo.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/repository/UndoRedoRepo.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/run_gui/RunGui.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/run_gui/RunGui.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/services/UserServices.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/services/UserServices.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/services/administrator.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/services/administrator.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/tests/test.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/tests/test.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/validator/validator.cpp">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/validator/validator.h">
+			<Option target="a45_tavi255"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Charts/Qt5ChartsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Charts\"/>
+		</Unit>
+		<Unit filename="D:/github/a89-tavi255/../../qt/5.15.2/mingw81_64/lib/cmake/Qt5Charts/Qt5ChartsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\qt\5.15.2\mingw81_64\lib\cmake\Qt5Charts\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
