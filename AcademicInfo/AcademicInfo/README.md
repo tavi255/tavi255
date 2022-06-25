@@ -1,6 +1,6 @@
-#System	for	Managing	Academic	Information
+# System	for	Managing	Academic	Information
 
-##Technologies
+## Technologies
 
 - Database server: Microsoft Sql
 - Programming languages:
@@ -9,7 +9,7 @@
  
  
  
-##List of detailed features:
+## List of detailed features:
 
 - Login page:
 - Contains a login form composed of:
