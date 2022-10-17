@@ -124,7 +124,7 @@ void GuiAdmin::add() {
     this->w=new QWidget;
     btn->setIconSize(QSize(80,80));
     btn->setFont(QFont("Calibri",10,-1,true));
-    btn->setIcon(QIcon("D:\\github\\a89-tavi255\\add.png"));
+    btn->setIcon(QIcon("../add.png"));
 
     QVBoxLayout *gl=new QVBoxLayout;
 
@@ -193,7 +193,7 @@ void GuiAdmin::update() {
     this->w=new QWidget;
     btn->setIconSize(QSize(80,80));
     btn->setFont(QFont("Calibri",10,-1,true));
-    btn->setIcon(QIcon("D:\\github\\a89-tavi255\\update.png"));
+    btn->setIcon(QIcon("../update.png"));
 
     QVBoxLayout *gl=new QVBoxLayout;
 
@@ -252,7 +252,7 @@ void GuiAdmin::remove() {
     this->w=new QWidget;
     btn->setIconSize(QSize(30,30));
     btn->setFont(QFont("Calibri",10,-1,true));
-    btn->setIcon(QIcon("D:\\github\\a89-tavi255\\delete.png"));
+    btn->setIcon(QIcon("../delete.png"));
 
     QVBoxLayout *gl=new QVBoxLayout;
 
@@ -310,23 +310,23 @@ void GuiAdmin::run() {
 
 
     buttons[0].setText("add");
-    buttons[0].setIcon(QIcon("D:\\github\\a89-tavi255\\add.png"));
+    buttons[0].setIcon(QIcon("../add.png"));
 
     buttons[1].setText("update");
-    buttons[1].setIcon(QIcon("D:\\github\\a89-tavi255\\update.png"));
+    buttons[1].setIcon(QIcon("../update.png"));
 
 
     buttons[2].setText("remove");
-    buttons[2].setIcon(QIcon("D:\\github\\a89-tavi255\\delete.png"));
+    buttons[2].setIcon(QIcon("../delete.png"));
 
     buttons[3].setText("print_all");
-    buttons[3].setIcon(QIcon("D:\\github\\a89-tavi255\\print_all.png"));
+    buttons[3].setIcon(QIcon("../print_all.png"));
 
     buttons[4].setText("undo");
-    buttons[4].setIcon(QIcon("D:\\github\\a89-tavi255\\undo.png"));
+    buttons[4].setIcon(QIcon("../undo.png"));
 
     buttons[5].setText("redo");
-    buttons[5].setIcon(QIcon("D:\\github\\a89-tavi255\\redo.png"));
+    buttons[5].setIcon(QIcon("../redo.png"));
 
 
 

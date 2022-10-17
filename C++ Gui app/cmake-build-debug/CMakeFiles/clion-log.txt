@@ -1,4 +1,4 @@
-"D:\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "D:\github profile\tavi255\a10-tavi255-1" -B "D:\github profile\tavi255\a10-tavi255-1\cmake-build-debug"
+"D:\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "D:\github profile\tavi255\C++ Gui app" -B "D:\github profile\tavi255\C++ Gui app\cmake-build-debug"
 -- The C compiler identification is GNU 11.2.0
 -- The CXX compiler identification is GNU 11.2.0
 -- Detecting C compiler ABI info
@@ -11,21 +11,6 @@
 -- Check for working CXX compiler: D:/CLion 2022.1/bin/mingw/bin/g++.exe - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
-CMake Error at CMakeLists.txt:19 (find_package):
-  By not providing "FindQt5.cmake" in CMAKE_MODULE_PATH this project has
-  asked CMake to find a package configuration file provided by "Qt5", but
-  CMake did not find one.
-
-  Could not find a package configuration file provided by "Qt5" with any of
-  the following names:
-
-    Qt5Config.cmake
-    qt5-config.cmake
-
-  Add the installation prefix of "Qt5" to CMAKE_PREFIX_PATH or set "Qt5_DIR"
-  to a directory containing one of the above files.  If "Qt5" provides a
-  separate development package or SDK, be sure it has been installed.
-
-
--- Configuring incomplete, errors occurred!
-See also "D:/github profile/tavi255/a10-tavi255-1/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/github profile/tavi255/C++ Gui app/cmake-build-debug

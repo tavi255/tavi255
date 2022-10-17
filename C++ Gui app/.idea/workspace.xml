@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager">
-    <generated />
+    <generated>
+      <config projectName="a45_tavi255" targetName="a45_tavi255" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -10,227 +12,182 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f957cfa4-c8b1-4dbf-81e7-4c4df26c0027" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/a10-tavi255-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/a10-tavi255-1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ui/Delegate.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/Delegate.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ui/Delegate.h" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/Delegate.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ui/GuiAdmin.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/GuiAdmin.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ui/GuiAdmin.h" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/GuiAdmin.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ui/GuiUser.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/GuiUser.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ui/GuiUser.h" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/GuiUser.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ui/TableView.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/TableView.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ui/TableView.h" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/TableView.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ui/UI administrator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/UI administrator.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ui/UI administrator.h" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/UI administrator.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ui/Ui user.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/Ui user.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ui/Ui user.h" beforeDir="false" afterPath="$PROJECT_DIR$/Ui/Ui user.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/charts/PieSliceChart.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/charts/PieSliceChart.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/charts/PieSliceChart.h" beforeDir="false" afterPath="$PROJECT_DIR$/charts/PieSliceChart.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/CMakeError.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/CMakeError.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/CMakeRuleHashes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/CMakeRuleHashes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/includes_CXX.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/includes_CXX.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/linklibs.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/linklibs.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/AutogenInfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/AutogenInfo.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/a45_tavi255_autogen.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/a45_tavi255.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/a45_tavi255.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##Repo.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##Repo.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##Services.cpp.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##Services.cpp.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##alloc_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##alloc_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##allocator.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##basic_string.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##basic_string.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##basic_string.tcc.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##basic_string.tcc.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##char_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##char_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##move.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##move.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##new_allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##new_allocator.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##ptr_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##ptr_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##stl_iterator_base_funcs.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##stl_iterator_base_funcs.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##stl_iterator_base_types.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##stl_iterator_base_types.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##type_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Services.cpp.gcda##type_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##Tutorial.cpp.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##Tutorial.cpp.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##alloc_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##alloc_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##allocator.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##basic_string.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##basic_string.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##basic_string.tcc.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##basic_string.tcc.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##char_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##char_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##move.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##move.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##new_allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##new_allocator.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##ptr_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##ptr_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##stl_function.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##stl_function.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##stl_iterator_base_funcs.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##stl_iterator_base_funcs.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##stl_iterator_base_types.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##stl_iterator_base_types.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##string_conversions.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##string_conversions.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##type_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/Tutorial.cpp.gcda##type_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##alloc_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##alloc_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##basic_string.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##basic_string.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##basic_string.tcc.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##basic_string.tcc.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##char_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##char_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##console.cpp.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##console.cpp.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##move.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##move.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##new_allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##new_allocator.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##ptr_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##ptr_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##stl_iterator_base_funcs.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##stl_iterator_base_funcs.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##stl_iterator_base_types.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##stl_iterator_base_types.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##type_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/console.cpp.gcda##type_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##Repo.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##Repo.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##alloc_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##alloc_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##allocator.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##basic_string.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##basic_string.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##basic_string.tcc.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##basic_string.tcc.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##char_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##char_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##generator.cpp.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##generator.cpp.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##move.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##move.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##new_allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##new_allocator.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##ptr_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##ptr_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##stl_iterator_base_funcs.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##stl_iterator_base_funcs.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##stl_iterator_base_types.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##stl_iterator_base_types.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##type_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/generator.cpp.gcda##type_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/main.cpp.gcda##main.cpp.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/main.cpp.gcda##main.cpp.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##Repo.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##Repo.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##alloc_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##alloc_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##allocator.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##basic_string.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##basic_string.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##basic_string.tcc.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##basic_string.tcc.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##char_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##char_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##move.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##move.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##new_allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##new_allocator.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##ptr_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##ptr_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##stl_algobase.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##stl_algobase.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##stl_function.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##stl_function.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##stl_iterator_base_funcs.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##stl_iterator_base_funcs.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##stl_iterator_base_types.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##stl_iterator_base_types.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##test.cpp.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##test.cpp.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##type_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/test.cpp.gcda##type_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##Repo.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##Repo.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##alloc_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##alloc_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##basic_string.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##basic_string.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##basic_string.tcc.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##basic_string.tcc.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##char_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##char_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##move.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##move.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##new_allocator.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##new_allocator.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##ptr_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##ptr_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##stl_algobase.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##stl_algobase.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##stl_iterator_base_funcs.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##stl_iterator_base_funcs.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##stl_iterator_base_types.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##stl_iterator_base_types.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##type_traits.h.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##type_traits.h.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##validator.cpp.gcov" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-coverage/coverage/validator.cpp.gcda##validator.cpp.gcov" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeRuleHashes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/includes_CXX.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/AutogenInfo.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/AutogenUsed.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/ParseCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Tutorial.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Tutorial.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255_autogen/5OUZVNNGVJ/moc_GuiAdmin.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255_autogen/5OUZVNNGVJ/moc_GuiAdmin.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255_autogen/5OUZVNNGVJ/moc_GuiUser.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255_autogen/5OUZVNNGVJ/moc_GuiUser.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255_autogen/moc_predefs.h" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255_autogen/moc_predefs.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255_autogen/mocs_compilation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/a45_tavi255_autogen/mocs_compilation.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/watchlist.csv" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/watchlist.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/watchlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/watchlist.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entity/Action.h" beforeDir="false" afterPath="$PROJECT_DIR$/entity/Action.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entity/ActionAdd.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/entity/ActionAdd.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entity/ActionAdd.h" beforeDir="false" afterPath="$PROJECT_DIR$/entity/ActionAdd.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entity/ActionRemove.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/entity/ActionRemove.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entity/ActionRemove.h" beforeDir="false" afterPath="$PROJECT_DIR$/entity/ActionRemove.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entity/ActionUpdate.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/entity/ActionUpdate.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entity/ActionUpdate.h" beforeDir="false" afterPath="$PROJECT_DIR$/entity/ActionUpdate.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entity/Tutorial.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/entity/Tutorial.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entity/Tutorial.h" beforeDir="false" afterPath="$PROJECT_DIR$/entity/Tutorial.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.csv" beforeDir="false" afterPath="$PROJECT_DIR$/example.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptions/exceptions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/exceptions/exceptions.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptions/exceptions.h" beforeDir="false" afterPath="$PROJECT_DIR$/exceptions/exceptions.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generator/generator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/generator/generator.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generator/generator.h" beforeDir="false" afterPath="$PROJECT_DIR$/generator/generator.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/FileRepo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/repository/FileRepo.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/FileRepo.h" beforeDir="false" afterPath="$PROJECT_DIR$/repository/FileRepo.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/Repo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/repository/Repo.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/Repo.h" beforeDir="false" afterPath="$PROJECT_DIR$/repository/Repo.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/SqlDatabase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/repository/SqlDatabase.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/SqlDatabase.h" beforeDir="false" afterPath="$PROJECT_DIR$/repository/SqlDatabase.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/UndoRedoRepo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/repository/UndoRedoRepo.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/UndoRedoRepo.h" beforeDir="false" afterPath="$PROJECT_DIR$/repository/UndoRedoRepo.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_gui/RunGui.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/run_gui/RunGui.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_gui/RunGui.h" beforeDir="false" afterPath="$PROJECT_DIR$/run_gui/RunGui.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/UserServices.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/services/UserServices.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/UserServices.h" beforeDir="false" afterPath="$PROJECT_DIR$/services/UserServices.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/administrator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/services/administrator.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/administrator.h" beforeDir="false" afterPath="$PROJECT_DIR$/services/administrator.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test.h" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/validator/validator.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/validator/validator.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/validator/validator.h" beforeDir="false" afterPath="$PROJECT_DIR$/validator/validator.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/.idea/newnewnew.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/.idea/newnewnew.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/.vs/AcademicInfo/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/.vs/AcademicInfo/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/.vs/AcademicInfo/v17/HierarchyCache.v1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/.vs/AcademicInfo/v17/HierarchyCache.v1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfo.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfo.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/.browserslistrc" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/.browserslistrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/.vs/AcademicInfoClient/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/.vs/AcademicInfoClient/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/.vscode/extensions.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/.vscode/extensions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/.vscode/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/.vscode/tasks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/AcademicInfoClient.esproj" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/AcademicInfoClient.esproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/AcademicInfoClient.esproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/AcademicInfoClient.esproj.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/AcademicInfoClient.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/AcademicInfoClient.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/aspnetcore-https.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/aspnetcore-https.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/nuget.config" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/nuget.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/login-form/login-form.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/login-form/login-form.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/login-form/login-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/login-form/login-form.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/login-form/login-form.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/login-form/login-form.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/login-form/login-form.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/login-form/login-form.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/manage-students/manage-students.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/manage-students/manage-students.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/manage-students/manage-students.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/manage-students/manage-students.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/manage-students/manage-students.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/manage-students/manage-students.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/manage-students/manage-students.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/manage-students/manage-students.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/manage-students/student-form/student-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/manage-students/student-form/student-form.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/manage-students/student-form/student-form.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/manage-students/student-form/student-form.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/manage-students/student-form/student-form.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/manage-students/student-form/student-form.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/staff-profile.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/staff-profile.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/staff-profile.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/staff-profile.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/staff-profile.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/staff-profile.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/staff-profile.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/staff-profile.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/update-staff/update-staff.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/update-staff/update-staff.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/update-staff/update-staff.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/update-staff/update-staff.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/update-staff/update-staff.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/staff-profile/update-staff/update-staff.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/courses-tab/courses-tab.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/courses-tab/courses-tab.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/courses-tab/courses-tab.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/courses-tab/courses-tab.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/courses-tab/courses-tab.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/courses-tab/courses-tab.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/courses-tab/courses-tab.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/courses-tab/courses-tab.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/optionals-tab/optionals-tab.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/optionals-tab/optionals-tab.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/optionals-tab/optionals-tab.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/optionals-tab/optionals-tab.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/optionals-tab/optionals-tab.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/optionals-tab/optionals-tab.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/optionals-tab/optionals-tab.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/optionals-tab/optionals-tab.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/student-profile.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/student-profile.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/student-profile.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/student-profile.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/student-profile.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/student-profile.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/student-profile.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/student-profile.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/update-profile/update-profile.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/update-profile/update-profile.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/update-profile/update-profile.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/update-profile/update-profile.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/update-profile/update-profile.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/update-profile/update-profile.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/update-profile/update-profile.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/student-profile/update-profile/update-profile.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/grade-student/grade-student.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/grade-student/grade-student.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/grade-student/grade-student.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/grade-student/grade-student.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/grade-student/grade-student.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/grade-student/grade-student.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/grade-student/grade-student.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/grade-student/grade-student.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/optional-proposals/optional-proposals.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/optional-proposals/optional-proposals.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/optional-proposals/optional-proposals.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/optional-proposals/optional-proposals.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/optional-proposals/optional-proposals.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/optional-proposals/optional-proposals.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/optional-proposals/optional-proposals.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/optional-proposals/optional-proposals.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/optionals-form/optionals-form.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/optionals-form/optionals-form.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/optionals-form/optionals-form.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/optionals-form/optionals-form.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/optionals-form/optionals-form.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/optionals-form/optionals-form.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/optionals-form/optionals-form.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/optionals-form/optionals-form.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/teacher-profile.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/teacher-profile.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/teacher-profile.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/teacher-profile.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/teacher-profile.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/teacher-profile.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/teacher-profile.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/teacher-profile.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/update-teacher/update-teacher.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/update-teacher/update-teacher.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/update-teacher/update-teacher.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/update-teacher/update-teacher.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/update-teacher/update-teacher.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/app/teacher-profile/update-teacher/update-teacher.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/proxy.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/proxy.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/src/test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoClient/tsconfig.spec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/.idea/shelf/Uncommitted_changes_before_Update_at_4_14_2022_9_22_AM_[Changes]/shelved.patch" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/.idea/shelf/Uncommitted_changes_before_Update_at_4_14_2022_9_22_AM_[Changes]/shelved.patch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/.idea/shelf/Uncommitted_changes_before_Update_at_4_14_2022_9_22_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/.idea/shelf/Uncommitted_changes_before_Update_at_4_14_2022_9_22_AM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/.vs/AcademicInfoServer/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/.vs/AcademicInfoServer/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/AcademicInfoServer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/AcademicInfoServer.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/AcademicInfoServer.csproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/AcademicInfoServer.csproj.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/AcademicInfoServer.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/AcademicInfoServer.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Authentication/AccountController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Authentication/AccountController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Authentication/AccountCredentials.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Authentication/AccountCredentials.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Authentication/IJwtAuthenticationManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Authentication/IJwtAuthenticationManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Authentication/JwtAuthenticationManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Authentication/JwtAuthenticationManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Controllers/StaffController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Controllers/StaffController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Controllers/StudentController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Controllers/StudentController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Controllers/TeacherController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Controllers/TeacherController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Controllers/UserController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Controllers/UserController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/Course.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/Course.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/Grade.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/Grade.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/ProposedOptional.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/ProposedOptional.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/Staff.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/Staff.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/Student.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/Student.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/StudentAccount.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/StudentAccount.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/StudentCourses.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/StudentCourses.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/StudentOptionals.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/StudentOptionals.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/Teacher.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/Teacher.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/WeatherForecast.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/WeatherForecast.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/bin/Debug/net6.0/AcademicInfoServer.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/bin/Debug/net6.0/AcademicInfoServer.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/bin/Debug/net6.0/AcademicInfoServer.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/bin/Debug/net6.0/AcademicInfoServer.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/bin/Debug/net6.0/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/bin/Debug/net6.0/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/bin/Debug/net6.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/bin/Debug/net6.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/bin/Release/net6.0/AcademicInfoServer.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/bin/Release/net6.0/AcademicInfoServer.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/bin/Release/net6.0/AcademicInfoServer.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/bin/Release/net6.0/AcademicInfoServer.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/bin/Release/net6.0/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/bin/Release/net6.0/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/bin/Release/net6.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/bin/Release/net6.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/AcademicInfoServer.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/AcademicInfoServer.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/AcademicInfoServer.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/AcademicInfoServer.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/AcademicInfoServer.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/AcademicInfoServer.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/AcademicInfoServer.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/AcademicInfoServer.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/AcademicInfoServer.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/AcademicInfoServer.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/AcademicInfoServer.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/AcademicInfoServer.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/AcademicInfoServer.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/AcademicInfoServer.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/AcademicInfoServer.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/AcademicInfoServer.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/AcademicInfoServer.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/AcademicInfoServer.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/AcademicInfoServer.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/AcademicInfoServer.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/AcademicInfoServer.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/AcademicInfoServer.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Debug/net6.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/AcademicInfoServer.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/AcademicInfoServer.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/AcademicInfoServer.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/AcademicInfoServer.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/AcademicInfoServer.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/AcademicInfoServer.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/AcademicInfoServer.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/AcademicInfoServer.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/AcademicInfoServer.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/AcademicInfoServer.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/AcademicInfoServer.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/AcademicInfoServer.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/AcademicInfoServer.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/AcademicInfoServer.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/AcademicInfoServer.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/AcademicInfoServer.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/Release/net6.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/AcademicInfo/AcademicInfoServer/obj/staticwebassets.pack.sentinel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AcademicInfo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../AcademicInfo/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObstructionPythonGame/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../ObstructionPythonGame/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObstructionPythonGame/.idea/a11-tavi255.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObstructionPythonGame/.idea/a11-tavi255.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObstructionPythonGame/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObstructionPythonGame/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObstructionPythonGame/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObstructionPythonGame/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObstructionPythonGame/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObstructionPythonGame/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObstructionPythonGame/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObstructionPythonGame/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObstructionPythonGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObstructionPythonGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObstructionPythonGame/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../ObstructionPythonGame/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObstructionPythonGame/UI/console.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ObstructionPythonGame/UI/console.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObstructionPythonGame/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ObstructionPythonGame/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObstructionPythonGame/repository/board.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ObstructionPythonGame/repository/board.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObstructionPythonGame/services/player_services.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ObstructionPythonGame/services/player_services.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObstructionPythonGame/strategies/mirror_strategy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ObstructionPythonGame/strategies/mirror_strategy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObstructionPythonGame/tests/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ObstructionPythonGame/tests/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObstructionPythonGame/validators/validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ObstructionPythonGame/validators/validator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,8 +197,12 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1tJAhLdqfikSjcIAQ81XvoM2z0e" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -249,17 +210,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "cmake.loaded.for.project": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cmake.loaded.for.project&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\github\a10-tavi255-1" />
@@ -271,10 +232,42 @@
         <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="a45_tavi255" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="a45_tavi255" TARGET_NAME="a45_tavi255" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="a45_tavi255" RUN_TARGET_NAME="a45_tavi255">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="C++ Gui app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="C++ Gui app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -289,6 +282,8 @@
       <workItem from="1622481139864" duration="5852000" />
       <workItem from="1622536730060" duration="9698000" />
       <workItem from="1656088623879" duration="72000" />
+      <workItem from="1656178794246" duration="822000" />
+      <workItem from="1656869114046" duration="56000" />
     </task>
     <servers />
   </component>

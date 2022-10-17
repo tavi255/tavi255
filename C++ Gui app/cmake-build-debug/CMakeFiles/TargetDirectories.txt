@@ -1,0 +1,4 @@
+D:/github profile/tavi255/C++ Gui app/cmake-build-debug/CMakeFiles/a45_tavi255.dir
+D:/github profile/tavi255/C++ Gui app/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/github profile/tavi255/C++ Gui app/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/github profile/tavi255/C++ Gui app/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir

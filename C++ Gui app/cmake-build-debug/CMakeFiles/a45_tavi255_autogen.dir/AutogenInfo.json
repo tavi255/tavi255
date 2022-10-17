@@ -1,0 +1,491 @@
+{
+	"BUILD_DIR" : "D:/github profile/tavi255/C++ Gui app/cmake-build-debug/a45_tavi255_autogen",
+	"CMAKE_BINARY_DIR" : "D:/github profile/tavi255/C++ Gui app/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/github profile/tavi255/C++ Gui app/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/github profile/tavi255/C++ Gui app",
+	"CMAKE_EXECUTABLE" : "D:/CLion 2022.1/bin/cmake/win/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"D:/github profile/tavi255/C++ Gui app/CMakeLists.txt",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeMinGWFindMake.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineSystem.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeSystem.cmake.in",
+		"D:/github profile/tavi255/C++ Gui app/cmake-build-debug/CMakeFiles/3.22.3/CMakeSystem.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCompilerId.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCompilerIdDetection.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/ADSP-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/ARMCC-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/ARMClang-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/AppleClang-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Borland-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Bruce-C-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Compaq-C-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Cray-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Embarcadero-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Fujitsu-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GHS-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU-C-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/HP-C-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/IAR-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Intel-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/MSVC-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/NVHPC-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/NVIDIA-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/PGI-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/PathScale-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/SCO-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/SDCC-C-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/SunPro-C-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/TI-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Watcom-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/XL-C-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/XLClang-C-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/zOS-C-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeFindBinUtils.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU-FindBinUtils.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCCompiler.cmake.in",
+		"D:/github profile/tavi255/C++ Gui app/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCXXCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-Determine-CXX.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCompilerId.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCompilerIdDetection.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/ADSP-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/ARMCC-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/ARMClang-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/AppleClang-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Borland-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Cray-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Embarcadero-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Fujitsu-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GHS-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/HP-CXX-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/IAR-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Intel-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/MSVC-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/NVHPC-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/NVIDIA-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/PGI-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/PathScale-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/SCO-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/TI-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/Watcom-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/XL-CXX-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeFindBinUtils.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU-FindBinUtils.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCXXCompiler.cmake.in",
+		"D:/github profile/tavi255/C++ Gui app/cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeGenericSystem.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/WindowsPaths.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeFindCodeBlocks.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/ProcessorCount.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCInformation.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU-C.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-C.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineRCCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeRCCompiler.cmake.in",
+		"D:/github profile/tavi255/C++ Gui app/cmake-build-debug/CMakeFiles/3.22.3/CMakeRCCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeRCInformation.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-windres.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeTestRCCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeTestCCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCompilerABI.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseImplicitIncludeInfo.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseImplicitLinkInfo.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseLibraryArchitecture.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCCompilerABI.c",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCompileFeatures.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Internal/FeatureTesting.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCCompiler.cmake.in",
+		"D:/github profile/tavi255/C++ Gui app/cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-C-ABI.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCXXInformation.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU-CXX.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-CXX.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeTestCXXCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCompilerABI.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseImplicitIncludeInfo.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseImplicitLinkInfo.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseLibraryArchitecture.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeDetermineCompileFeatures.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Internal/FeatureTesting.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCXXCompiler.cmake.in",
+		"D:/github profile/tavi255/C++ Gui app/cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseArguments.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseArguments.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Charts/Qt5ChartsConfigVersion.cmake",
+		"D:/qt/5.15.2/mingw81_64/lib/cmake/Qt5Charts/Qt5ChartsConfig.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "D:/github profile/tavi255/C++ Gui app",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"D:/github profile/tavi255/C++ Gui app/Ui/Delegate.h",
+			"MU",
+			"5OUZVNNGVJ/moc_Delegate.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/Ui/GuiAdmin.h",
+			"MU",
+			"5OUZVNNGVJ/moc_GuiAdmin.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/Ui/GuiUser.h",
+			"MU",
+			"5OUZVNNGVJ/moc_GuiUser.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/Ui/TableView.h",
+			"MU",
+			"5OUZVNNGVJ/moc_TableView.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/Ui/UI administrator.h",
+			"MU",
+			"5OUZVNNGVJ/moc_UI administrator.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/Ui/Ui user.h",
+			"MU",
+			"5OUZVNNGVJ/moc_Ui user.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/charts/PieSliceChart.h",
+			"MU",
+			"N7VBAYDW2B/moc_PieSliceChart.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/entity/Action.h",
+			"MU",
+			"LHIOWBJX66/moc_Action.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/entity/ActionAdd.h",
+			"MU",
+			"LHIOWBJX66/moc_ActionAdd.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/entity/ActionRemove.h",
+			"MU",
+			"LHIOWBJX66/moc_ActionRemove.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/entity/ActionUpdate.h",
+			"MU",
+			"LHIOWBJX66/moc_ActionUpdate.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/entity/Tutorial.h",
+			"MU",
+			"LHIOWBJX66/moc_Tutorial.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/exceptions/exceptions.h",
+			"MU",
+			"RHBJBCZP5P/moc_exceptions.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/generator/generator.h",
+			"MU",
+			"DE6YENPTZH/moc_generator.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/repository/FileRepo.h",
+			"MU",
+			"V6MOHEPR4H/moc_FileRepo.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/repository/Repo.h",
+			"MU",
+			"V6MOHEPR4H/moc_Repo.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/repository/SqlDatabase.h",
+			"MU",
+			"V6MOHEPR4H/moc_SqlDatabase.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/repository/UndoRedoRepo.h",
+			"MU",
+			"V6MOHEPR4H/moc_UndoRedoRepo.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/run_gui/RunGui.h",
+			"MU",
+			"VIQXP3S3MY/moc_RunGui.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/services/UserServices.h",
+			"MU",
+			"3BYFHCGL5U/moc_UserServices.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/services/administrator.h",
+			"MU",
+			"3BYFHCGL5U/moc_administrator.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/tests/test.h",
+			"MU",
+			"KRHXW7JQHD/moc_test.cpp",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/validator/validator.h",
+			"MU",
+			"QNNXIMG4WS/moc_validator.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "D:/github profile/tavi255/C++ Gui app/cmake-build-debug/a45_tavi255_autogen/include",
+	"MOC_COMPILATION_FILE" : "D:/github profile/tavi255/C++ Gui app/cmake-build-debug/a45_tavi255_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CHARTS_LIB", "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"D:/qt/5.15.2/mingw81_64/include",
+		"D:/qt/5.15.2/mingw81_64/include/QtCore",
+		"D:/qt/5.15.2/mingw81_64/mkspecs/win32-g++",
+		"D:/qt/5.15.2/mingw81_64/include/QtGui",
+		"D:/qt/5.15.2/mingw81_64/include/QtANGLE",
+		"D:/qt/5.15.2/mingw81_64/include/QtWidgets",
+		"D:/qt/5.15.2/mingw81_64/include/QtCharts",
+		"D:/CLion 2022.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++",
+		"D:/CLion 2022.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32",
+		"D:/CLion 2022.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward",
+		"D:/CLion 2022.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include",
+		"D:/CLion 2022.1/bin/mingw/include",
+		"D:/CLion 2022.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed",
+		"D:/CLion 2022.1/bin/mingw/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"D:/CLion 2022.1/bin/mingw/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"D:/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "D:/github profile/tavi255/C++ Gui app/cmake-build-debug/a45_tavi255_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "D:/github profile/tavi255/C++ Gui app/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "D:/qt/5.15.2/mingw81_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "D:/qt/5.15.2/mingw81_64/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "D:/github profile/tavi255/C++ Gui app/cmake-build-debug/CMakeFiles/a45_tavi255_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "D:/github profile/tavi255/C++ Gui app/Ui/Delegate.cpp", "MU", null ],
+		[ "D:/github profile/tavi255/C++ Gui app/Ui/GuiAdmin.cpp", "MU", null ],
+		[ "D:/github profile/tavi255/C++ Gui app/Ui/GuiUser.cpp", "MU", null ],
+		[ "D:/github profile/tavi255/C++ Gui app/Ui/TableView.cpp", "MU", null ],
+		[
+			"D:/github profile/tavi255/C++ Gui app/Ui/UI administrator.cpp",
+			"MU",
+			null
+		],
+		[ "D:/github profile/tavi255/C++ Gui app/Ui/Ui user.cpp", "MU", null ],
+		[
+			"D:/github profile/tavi255/C++ Gui app/charts/PieSliceChart.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/entity/ActionAdd.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/entity/ActionRemove.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/entity/ActionUpdate.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/entity/Tutorial.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/exceptions/exceptions.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/generator/generator.cpp",
+			"MU",
+			null
+		],
+		[ "D:/github profile/tavi255/C++ Gui app/main.cpp", "MU", null ],
+		[
+			"D:/github profile/tavi255/C++ Gui app/repository/FileRepo.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/repository/Repo.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/repository/SqlDatabase.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/repository/UndoRedoRepo.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/run_gui/RunGui.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/services/UserServices.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/github profile/tavi255/C++ Gui app/services/administrator.cpp",
+			"MU",
+			null
+		],
+		[ "D:/github profile/tavi255/C++ Gui app/tests/test.cpp", "MU", null ],
+		[
+			"D:/github profile/tavi255/C++ Gui app/validator/validator.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

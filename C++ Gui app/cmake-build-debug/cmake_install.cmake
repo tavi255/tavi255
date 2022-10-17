@@ -1,4 +1,4 @@
-# Install script for directory: D:/github/a10-tavi255-1
+# Install script for directory: D:/github profile/tavi255/C++ Gui app
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "D:/qt/Tools/mingw810_64/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "D:/CLion 2022.1/bin/mingw/bin/objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/github/a10-tavi255-1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/github profile/tavi255/C++ Gui app/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

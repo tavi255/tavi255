@@ -8,7 +8,7 @@ Delegate::Delegate(vector<Tutorial>v,QObject *parent) : QItemDelegate(parent),v(
 void Delegate::paint(QPainter *painter, const QStyleOptionViewItem &option, const QModelIndex &index) const {
 
     QStyleOptionButton button;
-    button.icon=QIcon("D:\\github\\a10-tavi255-1\\play.png");
+    button.icon=QIcon("../play.png");
     button.iconSize=QSize(30,30);
     button.state=QStyle:: State_Enabled;
     QRect r= option. rect.adjusted( 1, 1, - 1, - 1);
