@@ -1,6 +1,6 @@
 # FitnessTracker
 
-FitnessTracker an all-encompassing fitness web application, aimed at facilitating users in monitoring their exercise routines and managingtheir dietary habits. The application offers an intuitive platform that merges crucial fitness components, empowering users to track their progress and effectively attain their fitness objectives.
+FitnessTracker an all-encompassing fitness web application, aimed at facilitating users in monitoring their exercise routines and managing their dietary habits. The application offers an intuitive platform that merges crucial fitness components, empowering users to track their progress and effectively attain their fitness objectives.
 
 
 ## Technologies
