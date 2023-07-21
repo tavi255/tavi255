@@ -15,6 +15,5 @@ FitnessTracker an all-encompassing fitness web application, aimed at facilitati
 ## List of detailed features:
 
 
-
-
+![alt text](https://github.com/tavi255/licenta/blob/main/diagrame/feature_diagram%20%20(1).png)
 
