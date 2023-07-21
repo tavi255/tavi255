@@ -15,3 +15,6 @@ FitnessTracker an all-encompassing fitness web application, aimed at facilitati
 ## List of detailed features:
 
 
+
+
+
