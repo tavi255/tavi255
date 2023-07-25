@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vărzaru Octavian-Ștefan
-- 👨🏻‍🎓 I'm a computer science student at Univeristy Babes-Bolyai, Cluj, currently in 3nd year.
+- 👨🏻‍🎓 Bachelor's Degree in Computer Science (Babeș-Bolyai Unversity 2020-2023)
 - 👀 I’m interested in back-end software developement.
-- 📫 How to reach me: octavianstefanvarzaru@outlook.com
+- 📫 How to reach me: octavianstefan2000@outlook.com
 
 
