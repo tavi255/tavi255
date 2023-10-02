@@ -1,3 +1,5 @@
 ## Description
 
-The game is played on a grid; 6 x 6 is a good size. One player is 'O' and the other is 'X'.The players take turns in writing their symbol in an empty cell. Placing a symbol blocks all of the neighbouring cells from both players.The first player unable to move loses.
+Obstruction is a two-player board game built in Python. Players take turns placing their symbols on a grid, trying to block their opponent from being able to make any further moves. The first player that cannot place a symbol loses.
+
+The game can be played against another human player or against a computer.
